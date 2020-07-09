@@ -1,0 +1,28 @@
+li.feed {
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+    margin: 10px;
+    height: 600px;
+}
+li img {
+    width: 400px;
+    max-height: 400px;
+}
+ul.pagination {
+    margin: 0 auto;
+    display: block;
+    overflow: auto;
+    width: 200px;
+    padding: 0;
+}
+.pagination li {
+    list-style-type: none;
+    float:left;
+    padding: 20px;
+}
+.pagination-container {
+    display: block;
+    overflow: auto;
+    width: 100%;
+}

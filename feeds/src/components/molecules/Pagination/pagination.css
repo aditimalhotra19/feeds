@@ -1,0 +1,17 @@
+ul.pagination {
+    margin: 0 auto;
+    display: block;
+    overflow: auto;
+    width: 200px;
+    padding: 0;
+}
+li.page-item {
+    list-style-type: none;
+    float:left;
+    padding: 20px;
+}
+.pagination-container {
+    display: block;
+    overflow: auto;
+    width: 100%;
+}
